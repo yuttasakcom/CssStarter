@@ -1,0 +1,27 @@
+{
+  "name": "cssstarter",
+  "version": "1.0.0",
+  "description": "> udemy course https://www.udemy.com/advanced-css-and-sass",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuttasakcom/CssStarter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuttasakcom/CssStarter/issues"
+  },
+  "homepage": "https://github.com/yuttasakcom/CssStarter#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
